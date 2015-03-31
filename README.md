@@ -1,10 +1,4 @@
-## **OPEN WEATHER MONITORING SYSTEM**
-## MEMBERS
-
-*   KULATHILAKA B.U. (E/11/217)
-*   LANKATHILAKA Y.M.P.N.(E/11/237) @NirmalL
-*   MARASINGHE M.M.D.B.(E/11/258) @dhammika-marasinghe
-*   NANAYAKKARA N.B.U.S.(E/11/268)
+## OPEN WEATHER MONITORING SYSTEM
 
 ## INTRODUCTION
 
@@ -42,3 +36,10 @@ This system is a combination of sensor networks, communication technology and em
 1 x Rs.1000 Other electronic components
 
 Total cost: Rs.12 350/=
+
+## MEMBERS
+
+*   KULATHILAKA B.U. (E/11/217)
+*   LANKATHILAKA Y.M.P.N.(E/11/237) @NirmalL
+*   MARASINGHE M.M.D.B.(E/11/258) @dhammika-marasinghe
+*   NANAYAKKARA N.B.U.S.(E/11/268)
