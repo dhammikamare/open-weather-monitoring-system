@@ -21,8 +21,10 @@ Wireless sensor networks bring advantages in the form of lowering the cost of se
 
 **Differences from Pretesic Project**
 
-- Pretesic project mainly focus on determine water quality and flood detection. In open weather monitoring system project we mainly focus on weather data .  
+- Pretesic project mainly focus on determine water quality and flood detection. In open weather monitoring system project we mainly focus on weather data.  
+
 - Pretesic project collect data from sensor nodes using mobile nodes. But here we collect data using our device and send data to centralized online server which can distribute data through REST API.  
+
 - In specific time period ,If there huge difference between measurable values ,sensor node directly inform near weather forecasting authority.
 
 ### DESIGN AND IMPLEMENTATION
@@ -34,15 +36,21 @@ This system is a combination of sensor networks, communication technology and em
 ### BILL OF MATERIAL
 
 - 1 x Rs.7800 GSM/GPRS shield  
+
 - 2 x Rs. 660 DHT11 Temp/Humidity Sensor  
+
 - 1 x Rs.2250 Wind Sensor  
+
 - 1 x Rs.1000 Other electronic components
 
 Total cost: LKR **12 350**/=
 
 ### MEMBERS
 
-*   KULATHILAKA B.U. (E/11/217)
-*   LANKATHILAKA Y.M.P.N.(E/11/237) @NirmalL
-*   MARASINGHE M.M.D.B.(E/11/258) @dhammika-marasinghe
-*   NANAYAKKARA N.B.U.S.(E/11/268)
+-  KULATHILAKA B.U. 
+
+-  LANKATHILAKA Y.M.P.N. [@NirmalL](https://github.com/NirmalL)
+
+-  MARASINGHE M.M.D.B. [@dhammika-marasinghe](https://github.com/dhammika-marasinghe)
+
+-  NANAYAKKARA N.B.U.S.
